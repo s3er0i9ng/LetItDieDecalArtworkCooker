@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+release/
+*-cooking-*/
+LET-IT-DIE-Decal-*-Cooked/
+*.upk
+*.dds
+tool-log.txt
+manifest.json
+
